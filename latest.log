@@ -1,0 +1,75 @@
+[18:23:17] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[18:23:17] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[18:23:17] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[18:23:17] [main/INFO]: Forge Mod Loader version 14.23.5.2808 for Minecraft 1.12.2 loading
+[18:23:17] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 8.1:amd64:6.3, installed at C:\Users\password\Twitch\Minecraft\Install\runtime\jre-x64
+[18:23:17] [main/INFO]: Searching C:\Users\password\Twitch\Minecraft\Instances\StoneBlock\mods for mods
+[18:23:17] [main/INFO]: Searching C:\Users\password\Twitch\Minecraft\Instances\StoneBlock\mods\1.12.2 for mods
+[18:23:17] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in Aroma1997Core-1.12.2-2.0.0.1.b163.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18:23:17] [main/WARN]: The coremod aroma1997.core.coremod.CoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:23:17] [main/INFO]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
+[18:23:17] [main/INFO]: Loading tweaker codechicken.asm.internal.Tweaker from ChickenASM-1.12-1.0.2.7.jar
+[18:23:17] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-0.3.3.22.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18:23:17] [main/WARN]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:23:17] [main/WARN]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[18:23:18] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in cxlibrary-1.12.1-1.6.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18:23:18] [main/WARN]: The coremod cubex2.cxlibrary.CoreModLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:23:18] [main/WARN]: The coremod CXLibraryCore (cubex2.cxlibrary.CoreModLoader) is not signed!
+[18:23:18] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in EnderCore-1.12.2-0.5.45.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18:23:18] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in foamfix-0.10.3-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18:23:18] [main/WARN]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:23:18] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18:23:18] [main/WARN]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:23:18] [main/WARN]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[18:23:18] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from JustEnoughIDs-1.0.2-26.jar
+[18:23:18] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in OpenModsLib-1.12.2-0.12.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18:23:18] [main/WARN]: The coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:23:18] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in RandomThings-MC1.12.2-4.2.6.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18:23:18] [main/WARN]: The coremod lumien.randomthings.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:23:18] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in ResourceLoader-MC1.12.1-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18:23:18] [main/WARN]: The coremod lumien.resourceloader.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:23:18] [main/WARN]: The coremod blusunrize.immersiveengineering.common.asm.IELoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:23:18] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:23:18] [main/INFO]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[18:23:18] [main/INFO]: Loading tweak class name codechicken.asm.internal.Tweaker
+[18:23:18] [main/INFO]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[18:23:18] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.7.11 Source=file:/C:/Users/password/Twitch/Minecraft/Instances/StoneBlock/mods/JustEnoughIDs-1.0.2-26.jar Service=LaunchWrapper Env=CLIENT
+[18:23:18] [main/DEBUG]: Instantiating coremod class JEIDLoadingPlugin
+[18:23:18] [main/DEBUG]: The coremod org.dimdev.jeid.JEIDLoadingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[18:23:18] [main/WARN]: The coremod JEIDLoadingPlugin (org.dimdev.jeid.JEIDLoadingPlugin) is not signed!
+[18:23:18] [main/INFO]: Compatibility level set to JAVA_8
+[18:23:18] [main/DEBUG]: Enqueued coremod JEIDLoadingPlugin
+[18:23:18] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:23:18] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:23:18] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:23:18] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:23:18] [main/DEBUG]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[18:23:18] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[18:23:18] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[18:23:18] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[18:23:18] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[18:23:18] [main/DEBUG]: Injection complete
+[18:23:18] [main/DEBUG]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[18:23:18] [main/DEBUG]: Running coremod plugin FMLCorePlugin
+[18:23:19] [main/FATAL]: Patcher expecting non-empty class data file for net.minecraft.crash.CrashReport$1, but received empty.
+[18:23:19] [main/ERROR]: Unable to launch
+java.lang.RuntimeException: java.lang.RuntimeException: Patcher expecting non-empty class data file for net.minecraft.crash.CrashReport$1, but received empty, your vanilla jar may be corrupt.
+	at net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper.injectIntoClassLoader(CoreModManager.java:169) ~[forge-1.12.2-14.23.5.2808.jar:?]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.RuntimeException: Patcher expecting non-empty class data file for net.minecraft.crash.CrashReport$1, but received empty, your vanilla jar may be corrupt.
+	at net.minecraftforge.fml.common.patcher.ClassPatchManager.applyPatch(ClassPatchManager.java:113) ~[forge-1.12.2-14.23.5.2808.jar:?]
+	at net.minecraftforge.fml.common.patcher.ClassPatchManager.getPatchedResource(ClassPatchManager.java:76) ~[forge-1.12.2-14.23.5.2808.jar:?]
+	at net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper.getFieldType(FMLDeobfuscatingRemapper.java:219) ~[forge-1.12.2-14.23.5.2808.jar:?]
+	at net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper.parseField(FMLDeobfuscatingRemapper.java:192) ~[forge-1.12.2-14.23.5.2808.jar:?]
+	at net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper.setup(FMLDeobfuscatingRemapper.java:161) ~[forge-1.12.2-14.23.5.2808.jar:?]
+	at net.minecraftforge.fml.common.asm.FMLSanityChecker.injectData(FMLSanityChecker.java:187) ~[forge-1.12.2-14.23.5.2808.jar:?]
+	at net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper.injectIntoClassLoader(CoreModManager.java:164) ~[forge-1.12.2-14.23.5.2808.jar:?]
+	... 2 more
+[18:23:19] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: net.minecraftforge.fml.relauncher.FMLSecurityManager$ExitTrappedException
+[18:23:19] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.relauncher.FMLSecurityManager.checkPermission(FMLSecurityManager.java:49)
+[18:23:19] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.SecurityManager.checkExit(SecurityManager.java:761)
+[18:23:19] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.Runtime.exit(Runtime.java:107)
+[18:23:19] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.System.exit(System.java:971)
+[18:23:19] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:138)
+[18:23:19] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
